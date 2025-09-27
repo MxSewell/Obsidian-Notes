@@ -270,11 +270,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c5e598b42d7f346",
+  "active": "06913ff42f41001e",
   "lastOpenFiles": [
+    "README.md",
     "Azure/Microsoft Entra/Managed Identities & Service Principals.md",
     "Azure/Microsoft Entra/Traveling Token Flow.md",
     "Azure/Microsoft Entra/Observed Malicious User Agents.md",
