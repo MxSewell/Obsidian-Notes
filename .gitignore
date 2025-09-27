@@ -1,0 +1,23 @@
+# Obsidian config files (don’t need on GitHub)
+.obsidian/
+.obsidian-plugins/
+.obsidian-snippets/
+.obsidian-workspace*
+.obsidian-appearance*
+
+# OS/system junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary/editor files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Build artifacts (if you generate docs later)
+site/
+public/
+
